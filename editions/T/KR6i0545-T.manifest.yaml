@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6i0545/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0545/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 占察善惡業報經
+  identifiers:
+    krp: KR6i0545
+    cbeta: T17n0839
+    cbeta_old_id: T17n0839
+    authorityid: CA0004018
+    json_key: T0839
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0839.xml
+    old_id: T17n0839
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0545_000-T.yaml, hash: 'sha256:0344c4530ce01b06cc2516c359bf55af2b4a05ecb7e08f5c35bffdcba759b54c'}
+  - {seq: 1, filename: KR6i0545_001-T.yaml, hash: 'sha256:21716e362f25d1efa3533379656802fd6694aa38fa3f4465838699cce3b4b0fd'}
+  - {seq: 2, filename: KR6i0545_002-T.yaml, hash: 'sha256:4ddad0ae3c694a0f7979e0f43fefd0c9333b1a46141471879cf7cc637b15a53f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0545_000-T.markers.yaml, hash: 'sha256:aad190dfccaf728f7c75286a8b0ad8de247b13e28f3d1bf118557bc547a9a6be'}
+  - {seq: 1, role: markers, filename: assets/KR6i0545_001-T.markers.yaml, hash: 'sha256:c24bb29f2e77eb9f34278c97f3a109e337191684d31c5b20181e3d6db4eff686'}
+  - {seq: 2, role: markers, filename: assets/KR6i0545_002-T.markers.yaml, hash: 'sha256:fcbbaa748dd09bb17e0269ca3a72ab8b7c0ff0dece9a93654df3d7cdc4ad5fca'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0545_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7528
+  label: 占察善惡業報經卷上出六根聚經中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0545_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5627
+  label: 占察善惡業報經卷下出六根聚經中
+  type: juan
+  level: 1
+hash: sha256:c6fec20cc163f9259c4e5c67a11e8019987ec7f8f3333543f4ee47057b70bd84

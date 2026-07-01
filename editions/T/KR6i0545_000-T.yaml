@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0545/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 占察善惡業報經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0839.xml
+    old_id: T17n0839
+hash: sha256:0344c4530ce01b06cc2516c359bf55af2b4a05ecb7e08f5c35bffdcba759b54c
